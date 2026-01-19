@@ -1,0 +1,22 @@
+[
+  {"time":"2024-01-10T08:00:00Z","Mensagens Enviadas":50,"Mensagens Processadas":50,"Notas de Reclamação Abertas":10,"Notas de Reclamação Processadas":10,"Alertas de Atraso":0},
+  {"time":"2024-01-10T08:15:00Z","Mensagens Enviadas":55,"Mensagens Processadas":50,"Notas de Reclamação Abertas":12,"Notas de Reclamação Processadas":11,"Alertas de Atraso":1},
+  {"time":"2024-01-10T08:30:00Z","Mensagens Enviadas":60,"Mensagens Processadas":55,"Notas de Reclamação Abertas":14,"Notas de Reclamação Processadas":12,"Alertas de Atraso":2},
+  {"time":"2024-01-10T08:45:00Z","Mensagens Enviadas":65,"Mensagens Processadas":60,"Notas de Reclamação Abertas":15,"Notas de Reclamação Processadas":13,"Alertas de Atraso":2},
+  {"time":"2024-01-10T09:00:00Z","Mensagens Enviadas":70,"Mensagens Processadas":65,"Notas de Reclamação Abertas":18,"Notas de Reclamação Processadas":15,"Alertas de Atraso":3},
+  {"time":"2024-01-10T09:15:00Z","Mensagens Enviadas":75,"Mensagens Processadas":70,"Notas de Reclamação Abertas":20,"Notas de Reclamação Processadas":17,"Alertas de Atraso":3},
+  {"time":"2024-01-10T09:30:00Z","Mensagens Enviadas":80,"Mensagens Processadas":72,"Notas de Reclamação Abertas":22,"Notas de Reclamação Processadas":18,"Alertas de Atraso":4},
+  {"time":"2024-01-10T09:45:00Z","Mensagens Enviadas":85,"Mensagens Processadas":74,"Notas de Reclamação Abertas":25,"Notas de Reclamação Processadas":20,"Alertas de Atraso":5},
+  {"time":"2024-01-10T10:00:00Z","Mensagens Enviadas":90,"Mensagens Processadas":80,"Notas de Reclamação Abertas":28,"Notas de Reclamação Processadas":22,"Alertas de Atraso":6},
+  {"time":"2024-01-10T10:15:00Z","Mensagens Enviadas":95,"Mensagens Processadas":82,"Notas de Reclamação Abertas":30,"Notas de Reclamação Processadas":25,"Alertas de Atraso":5},
+  {"time":"2024-01-10T10:30:00Z","Mensagens Enviadas":100,"Mensagens Processadas":85,"Notas de Reclamação Abertas":32,"Notas de Reclamação Processadas":27,"Alertas de Atraso":5},
+  {"time":"2024-01-10T10:45:00Z","Mensagens Enviadas":105,"Mensagens Processadas":90,"Notas de Reclamação Abertas":35,"Notas de Reclamação Processadas":30,"Alertas de Atraso":5},
+  {"time":"2024-01-10T11:00:00Z","Mensagens Enviadas":110,"Mensagens Processadas":100,"Notas de Reclamação Abertas":38,"Notas de Reclamação Processadas":35,"Alertas de Atraso":3},
+  {"time":"2024-01-10T11:15:00Z","Mensagens Enviadas":115,"Mensagens Processadas":105,"Notas de Reclamação Abertas":40,"Notas de Reclamação Processadas":37,"Alertas de Atraso":3},
+  {"time":"2024-01-10T11:30:00Z","Mensagens Enviadas":120,"Mensagens Processadas":110,"Notas de Reclamação Abertas":42,"Notas de Reclamação Processadas":40,"Alertas de Atraso":2},
+  {"time":"2024-01-10T11:45:00Z","Mensagens Enviadas":125,"Mensagens Processadas":115,"Notas de Reclamação Abertas":45,"Notas de Reclamação Processadas":43,"Alertas de Atraso":2},
+  {"time":"2024-01-10T12:00:00Z","Mensagens Enviadas":130,"Mensagens Processadas":120,"Notas de Reclamação Abertas":48,"Notas de Reclamação Processadas":46,"Alertas de Atraso":2},
+  {"time":"2024-01-10T12:15:00Z","Mensagens Enviadas":135,"Mensagens Processadas":125,"Notas de Reclamação Abertas":50,"Notas de Reclamação Processadas":48,"Alertas de Atraso":2},
+  {"time":"2024-01-10T12:30:00Z","Mensagens Enviadas":140,"Mensagens Processadas":130,"Notas de Reclamação Abertas":52,"Notas de Reclamação Processadas":50,"Alertas de Atraso":2},
+  {"time":"2024-01-10T12:45:00Z","Mensagens Enviadas":145,"Mensagens Processadas":135,"Notas de Reclamação Abertas":55,"Notas de Reclamação Processadas":52,"Alertas de Atraso":3}
+]
