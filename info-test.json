@@ -1,12 +1,49 @@
 [
   {
-    "time": "now-1h",
-    "serie": "teste",
-    "value": 10
+    "time": "2024-01-10T08:00:00Z",
+    "serie": "SAC → Sistema Central",
+    "value": 120
   },
   {
-    "time": "now",
-    "serie": "teste",
-    "value": 20
+    "time": "2024-01-10T08:15:00Z",
+    "serie": "SAC → Sistema Central",
+    "value": 135
+  },
+  {
+    "time": "2024-01-10T08:30:00Z",
+    "serie": "SAC → Sistema Central",
+    "value": 150
+  },
+
+  {
+    "time": "2024-01-10T08:00:00Z",
+    "serie": "Sistema Central → Central de Despacho",
+    "value": 115
+  },
+  {
+    "time": "2024-01-10T08:15:00Z",
+    "serie": "Sistema Central → Central de Despacho",
+    "value": 130
+  },
+  {
+    "time": "2024-01-10T08:30:00Z",
+    "serie": "Sistema Central → Central de Despacho",
+    "value": 148
+  },
+
+  {
+    "time": "2024-01-10T08:00:00Z",
+    "serie": "Central de Despacho → Equipe de Rua",
+    "value": 110
+  },
+  {
+    "time": "2024-01-10T08:15:00Z",
+    "serie": "Central de Despacho → Equipe de Rua",
+    "value": 125
+  },
+  {
+    "time": "2024-01-10T08:30:00Z",
+    "serie": "Central de Despacho → Equipe de Rua",
+    "value": 140
   }
 ]
