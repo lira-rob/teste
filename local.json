@@ -3,48 +3,24 @@
     "name": "Praça Cívica – Centro",
     "lat": -16.6840,
     "lon": -49.2550,
-    "status": "normal"
+    "status": 1
   },
   {
     "name": "Parque Flamboyant – Setor Bueno",
     "lat": -16.6765,
     "lon": -49.2520,
-    "status": "normal"
-  },
-  {
-    "name": "Centro Cultural Oscar Niemeyer",
-    "lat": -16.6995,
-    "lon": -49.2555,
-    "status": "normal"
-  },
-  {
-    "name": "Universidade Federal de Goiás (UFG)",
-    "lat": -16.6425,
-    "lon": -49.2625,
-    "status": "normal"
+    "status": 1
   },
   {
     "name": "Bairro Buena Vista",
     "lat": -16.7294,
     "lon": -49.3964,
-    "status": "problem"
+    "status": 2
   },
   {
     "name": "Setor Marista",
     "lat": -16.6860,
     "lon": -49.2620,
-    "status": "problem"
-  },
-  {
-    "name": "Setor Oeste",
-    "lat": -16.6780,
-    "lon": -49.2660,
-    "status": "problem"
-  },
-  {
-    "name": "Região Leste (Jardim das Aroeiras)",
-    "lat": -16.6500,
-    "lon": -49.2240,
-    "status": "problem"
+    "status": 2
   }
 ]
